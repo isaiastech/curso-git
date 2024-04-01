@@ -1,3 +1,5 @@
+# Comandos fundamentais
+
 # Criar arquivo
 echo "# curso-git-1" >> README.md
 
@@ -62,5 +64,7 @@ ex:       node_modules/*  → ignora todos os arquivos da pasta
 ● Todas as alterações commitadas e também as pendentes serão
 excluídas;
 
+<!-- Fim da 1ª Secão -->
 
 
+# Branches
