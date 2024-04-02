@@ -71,4 +71,5 @@ ex:       node_modules/*  → ignora todos os arquivos da pasta
 
 # Criando e utilizando branches
 
-
+git branch -->mostra o numero de branch no projeto
+git branch <nome do branch> cria um novo branch
