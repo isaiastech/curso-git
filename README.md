@@ -153,6 +153,8 @@ branch;
 # Enviando e compartilhando tags
 ● As tags podem ser enviadas para o repositório de código, sendo
 compartilhada entre os devs;
-● O comando é git push origin <nome>
+● O comando é git push origin <nome da tag>
 ● Ou se você quiser enviar mais tags git push origin --tags
+
+# Conclusão da seção
 
