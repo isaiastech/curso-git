@@ -121,3 +121,15 @@ git stash
 ● Desta maneira podemos continuar de onde paramos com os arquivos
 adicionados a stash
 
+git stash list
+
+# Removendo a stash
+● Para limpar totalmente as stash de um branch podemos utilizar o
+  comando git stash clear
+● Caso seja necessário deletar uma stash específica podemos utilizar git
+  stash drop <nome>
+ 
+ git stash clear <apaga tudo>
+ git stash drop <nome da stash> apaga uma em especifico
+
+ 
