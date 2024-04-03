@@ -132,4 +132,10 @@ git stash list
  git stash clear <apaga tudo>
  git stash drop <nome da stash> apaga uma em especifico
 
- 
+ # Utilizando tags
+
+ ● Podemos criar tags nos branches por meio do comando git tag -a
+   <nome> -m “<msg>”
+● A tag é diferente do stash, serve como um checkpoint de um branch;
+● É utilizada para demarcar estágios do desenvolvimento de algum
+recurso;
