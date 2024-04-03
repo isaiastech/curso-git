@@ -140,4 +140,13 @@ git stash list
 ● É utilizada para demarcar estágios do desenvolvimento de algum
 recurso;
 ● sempre fazer o commit antes
+
 git tag <ver o nome da tag>
+git tag <nome da versão v1.0> -a -m "primeira versão"
+
+# Verificando e alterando tags
+● Podemos verificar uma tag com o comando git show <nome>
+● Podemos trocar de tags com o comando git checkout <nome>
+● Desta maneira podemos retroceder ou avançar em checkpoints de um
+branch;
+
