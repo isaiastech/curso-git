@@ -150,3 +150,9 @@ git tag <nome da versão v1.0> -a -m "primeira versão"
 ● Desta maneira podemos retroceder ou avançar em checkpoints de um
 branch;
 
+# Enviando e compartilhando tags
+● As tags podem ser enviadas para o repositório de código, sendo
+compartilhada entre os devs;
+● O comando é git push origin <nome>
+● Ou se você quiser enviar mais tags git push origin --tags
+
