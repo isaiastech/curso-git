@@ -92,4 +92,12 @@ arquivo;
 ● Alterando o branch podemos levar alterações que não foram
 commitadas junto, tome cuidado!
 
+# Unindo branches
 
+● O código de dois branches distintos pode ser unido pelo comando git
+merge <nome>
+● Outro comando para a lista dos mais utilizados;
+● Normalmente é por meio dele que recebemos as atualizações de outros
+devs;
+
+git merge <nome>
