@@ -167,4 +167,4 @@ que ainda não estão reconhecidos por você;
 ● Este comando é útil para utilizar o branch de algum outro dev do time,
 por exemplo;
 
-
+git fetch <passando a flag -a>
