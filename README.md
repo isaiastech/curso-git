@@ -177,3 +177,4 @@ remoto;
 trabalhamos em conjunto e queremos receber as atualizações de um
 dev;
 
+## Aterando nome do diretório
