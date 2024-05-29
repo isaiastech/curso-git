@@ -33,4 +33,7 @@ negrito _texto em negrito_
 
 ### Inserindo Imagens
 
+![logo](img/Favicon3.png)
 
+### Imagen externa:
+![logo do php](https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/27/20151123001635%21PHP-logo.svg/120px-PHP-logo.svg.png)
