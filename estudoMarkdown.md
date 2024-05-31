@@ -37,3 +37,11 @@ negrito _texto em negrito_
 
 ### Imagen externa:
 ![logo do php](https://upload.wikimedia.org/wikipedia/commons/thumb/archive/2/27/20151123001635%21PHP-logo.svg/120px-PHP-logo.svg.png)
+
+# Lista de tarefas
+
+[x] Área de membros  
+[ ] Integração com outros sistemas  
+[ ] sistema de bônus  
+[ ] Css do rodapé
+
